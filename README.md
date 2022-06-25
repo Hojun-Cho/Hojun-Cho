@@ -35,3 +35,4 @@
   -   <img src="https://img.shields.io/badge/PINPOINT-009DE0?style=for-the-badge&logo=#25A162&logoColor=white">
 - Collaboration
   - <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=#25A162&logoColor=white">
+
