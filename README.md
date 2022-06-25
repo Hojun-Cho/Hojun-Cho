@@ -17,8 +17,8 @@
   * [BoilerPlate](https://github.com/teamMople)
             
                  
-* BoilerPlate-refactor : BoilerPlate의 Refactoring 진행
-  *  BoilerPlate 프로젝트를 진행하다가 나 자신에게 아쉬운 점이 너무 많아서 시작했다.
+* BoilerPlate-refactor : BoilerPlate의 Refactoring
+  *  BoilerPlate 프로젝트를 진행하다가 나 자신에게 아쉬운 점이 너무 많아서 시작했습니다.
   * 진행상황  :[BoilerPlate-Refactoring](https://github.com/Hojun-Cho/Mople-Refactor) (지적 , 코드리뷰 모두 감사합니다!)
 
 
