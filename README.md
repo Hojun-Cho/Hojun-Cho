@@ -14,7 +14,7 @@
 ## Projects
 * BoilerPlate : 실시간 음성 및 일반 토론 서비스
   * 맡은 역활 : CI/CD , Infra , Membership Management
-  * [BoilerPlate](https://github.com/Hojun-Cho/Mople-Refactor)
+  * [BoilerPlate](https://github.com/teamMople)
             
                  
 * BoilerPlate-refactor : BoilerPlate의 Refactoring 진행
