@@ -5,8 +5,8 @@
 책처럼 읽기 좋은 코드를 작성하는 게 커리어 목표인 최호준입니다.**
 
 ## Contact
-- **Email : ghwns6743@gmail.com**<br>
-- **Phone  : 010-6357-6748**<br>
+- :e-mail: **Email : ghwns6743@gmail.com**<br>
+- :telephone: **Phone  : 010-6357-6748**<br>
 
 ## Experience
 * 2022.01-2022.04 항해 99 수료
@@ -22,7 +22,7 @@
   * 진행상황  :[BoilerPlate-Refactoring](https://github.com/Hojun-Cho/Mople-Refactor) (지적 , 코드리뷰 모두 감사합니다!)
 
 
-# ♂️  Skill
+# :hammer_and_wrench:  Skill
 
 - Backend<br>
     -  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">      <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">  <br>
